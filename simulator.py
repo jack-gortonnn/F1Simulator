@@ -62,7 +62,7 @@ for driver, data in drivers.items():
     drivers[driver]["TOT"] = 0
     drivers[driver]["DNF"] = False
 
-print("\n------------------------------------\n\nWelcome to skyv1111's F1 Simulator!\n")
+print("\n------------------------------------\n\nWelcome to Jack's F1 Simulator!\n")
 
 for i, (l, r) in enumerate(zip(list(tracks.items())[:len(list(tracks.items())) // 2], list(tracks.items())[len(list(tracks.items())) // 2:])):
     print(f"{i + 1:2}. {l[0]:15s} {i + len(list(tracks.items())) // 2 + 1:2}. {r[0]:30s}")
