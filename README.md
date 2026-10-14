@@ -8,7 +8,4 @@ This was my first project with Python and I'm happy with how well the text-based
 
 ## Screenshots
 
-<img width="325" height="306" alt="image" src="https://github.com/user-attachments/assets/5d7a1940-e911-45db-8fad-da687a4d19d2" />
-<img width="325" height="555" alt="image" src="https://github.com/user-attachments/assets/d21de108-8564-4113-b43f-d883c7f1e84c" />
-<img width="325" height="544" alt="image" src="https://github.com/user-attachments/assets/eebb20ce-c74e-4d7c-aef1-f4e9ca93c99b" />
-<img width="325" height="354" alt="image" src="https://github.com/user-attachments/assets/1c365d81-ac54-4390-bd66-5eadbd396eb2" />
+<img width="354" height="1410" alt="image" src="https://github.com/user-attachments/assets/0c8fbd7a-cb0b-42e0-9408-e5fc239d956f" />
